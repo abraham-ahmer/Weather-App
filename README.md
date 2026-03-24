@@ -1,4 +1,4 @@
-# 🌦 Weather App (FastAPI + PostgreSQL)
+# Weather App (FastAPI + PostgreSQL)
 
 A beginner‑friendly weather application built with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**.  
 It allows users to sign up, log in, and check live weather data using the OpenWeather API.  
@@ -6,7 +6,7 @@ Users can also save their default city, view recent searches, and store weather 
 
 ---
 
-## 🚀 Features
+## Features
 - User authentication with JWT tokens (signup & login).
 - Secure password hashing with bcrypt.
 - Fetch live weather data from OpenWeather API.
@@ -17,7 +17,7 @@ Users can also save their default city, view recent searches, and store weather 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **FastAPI** – web framework
 - **SQLAlchemy** – ORM for database models
 - **PostgreSQL** – database
@@ -27,7 +27,7 @@ Users can also save their default city, view recent searches, and store weather 
 
 ---
 
-## 📦 Installation
+## Installation
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/weather-app.git
